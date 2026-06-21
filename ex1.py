@@ -1,0 +1,15 @@
+print("Уровень 1:")
+print("To be")
+print("or not")
+print("to be")
+
+print("Уровень 2:")
+print('"Life is what happens')
+print('    when')
+print("    you're busy making other plans\"")
+print('    John Lennon')
+
+print("Уровень 3:")
+print("The best way to predict the future is")
+print("    to invent it.")
+print("           Alan Kay")
